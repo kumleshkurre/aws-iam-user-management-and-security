@@ -1,5 +1,6 @@
 # 🔐 AWS IAM User Management & Security Setup
 
+## 📌 Objective
 This document explains step-by-step **AWS IAM user creation, MFA setup, access keys, AWS CLI configuration, password policies, and auditing**.
 
 ---
@@ -149,8 +150,12 @@ CSV files
 - Documentation
 
 ---
+## 👨‍💻 Author
 
-### 📎 Author
 **Kumlesh Kurre**  
-*A IT Support Engineer/Network Engineer*
-  
+ IT Support & Network Engineer  
+
+---
+
+⭐ If you find this project helpful, please give it a star on GitHub.
+
